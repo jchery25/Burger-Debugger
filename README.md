@@ -10,7 +10,7 @@ Students blend six protein sources, watch the land, water and climate costs of t
 
 ## Why this exists
 
-Most alternative protein materials tell students that some proteins are more efficient than others. This lab makes them feel it. The budget is finite, the class has to eat, and no single protein wins on every axis — so students have to make and defend a trade-off, which is what engineering design actually is.
+Most alternative protein materials tell students that some proteins are more efficient than others. This lab makes them feel it. The budget is finite, the class has to eat, and no single protein wins on every axis, so students have to make and defend a trade-off, which is what engineering design actually is.
 
 The central constraint is the one students never expect: a burger that scores perfectly on land, water and pollution but that nobody will eat is a failed design. Acceptance is a hard requirement, not a bonus.
 
@@ -19,7 +19,7 @@ The central constraint is the one students never expect: a burger that scores pe
 ## What's in it
 
 ### Screen 1 — Mission brief
-Sets up the scenario (an end-of-year class party) and teaches feed-to-food conversion efficiency with a 100-square grid. Students see how much protein actually leaves the farm as edible food per pathway — beef converts about 3%, so 97 of the 100 squares leak out. This is the conceptual foundation for everything on the next screen.
+Sets up the scenario (an end-of-year class party) and teaches feed-to-food conversion efficiency with a 100-square grid. Students see how much protein actually leaves the farm as edible food per pathway, beef converts about 3%, so 97 of the 100 squares leak out. This is the conceptual foundation for everything on the next screen.
 
 ### Screen 2 — The lab
 The build environment. Students:
@@ -30,7 +30,7 @@ The build environment. Students:
 - track live **percentage-of-budget** readouts for land, water and climate pollution
 - pass or fail **five design rules**: land, water and pollution inside budget; taste score at or above 70; at least 60% of the class would eat it
 
-Five in-context info buttons explain the protein sources, the taste score, the budgets, the class panel and the score breakdown in plain language — no prior chemistry or life-cycle-assessment vocabulary required.
+Five in-context info buttons explain the protein sources, the taste score, the budgets, the class panel and the score breakdown in plain language (no prior chemistry or life-cycle-assessment vocabulary required).
 
 **Print the worksheet** on this screen opens the browser print dialog with the two-page student worksheet only.
 
@@ -111,7 +111,7 @@ The app is a single self-contained `index.html`. No build step, no server, no de
 
 **GitHub Pages:** Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`. The site appears at `https://<user>.github.io/Burger-Debugger/` within a minute or two.
 
-**Anywhere else:** drag `index.html` onto Netlify Drop, drop it in Google Drive, or attach it to an LMS assignment.
+**Anywhere else:** drag `index.html` onto [Netlify Drop](https://app.netlify.com/drop), drop it in Google Drive, or attach it to an LMS assignment.
 
 ### Repository contents
 
@@ -156,7 +156,7 @@ Issues and pull requests welcome, particularly:
 
 ## License
 
-Curriculum content and worksheet: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, remix it, teach with it, sell a course that includes it — just credit the source.
+Curriculum content and worksheet: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, remix it, teach with it, sell a course that includes it (just credit the source).
 
 Code: MIT.
 
